@@ -64,7 +64,7 @@ Built around an ESP32 with triple NRF24 modules, a crisp OLED display, and a 250
 - **WiFi Deauther** – Educational tool for testing network security with deauthentication frames on authorized networks
 - **Deauth Scanner** – Monitors and analyzes WiFi deauthentication frames in real-time. Displays the source MAC, channel, and live RSSI of the deauthing transmitter. Use it to physically locate the source of a deauth attack.
 - **Beacon Spam** – Broadcasts multiple fake WiFi networks for testing. Choose to clone real nearby networks, select specific SSIDs, or use a list of random names.
-- **Evil Portal** – Creates captive portal with multiple templates (Generic, Facebook, Google) that automatically scans nearby networks for realistic SSID spoofing and credential capture.
+- **Evil Portal** – Creates a captive portal with multiple realistic templates (Google, Facebook, Apple ID, Microsoft, and Xfinity) that automatically scans nearby networks for realistic SSID spoofing and credential capture.
 - **Pineapple Detector** – Detect and identify nearby Pineapple devices
 - **Pwnagotchi Detector** – Detects nearby Pwnagotchi devices and displays their information
 - **Pwnagotchi Spam** - Pwnagotchi grid flooding tool that generates fake beacon frames with randomized identities, faces, names, and versions (contains optional DoS mode).
