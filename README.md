@@ -46,10 +46,9 @@ Built around an ESP32 with triple NRF24 modules, a crisp OLED display, and a 250
 - **Plug & Play** – USB-C powered, works right out of the box
 - **All-Day Battery** – 2500mAh battery provides up to a full day of portable use
 - **Level Up System** – Built-in RPG mechanics track your progress as you explore wireless protocols
-- **Open Source** – Fully customizable firmware with active community development
 - **Complete 2.4GHz Toolkit** – 20+ built-in features for Bluetooth, BLE, WiFi, and RF analysis
 - **Pocket-Sized** – Take it anywhere, scan everything
-- **Active Updates** – New features added regularly by the community
+- **Active Updates** – New features added regularly by Nyan Devices
 
 **Ready to dive in? [Purchase nyanBOX at shop.nyandevices.com](https://shop.nyandevices.com)**
 
@@ -146,15 +145,6 @@ Get up and running or update to the latest features:
 3. Click **Install nyanBOX Firmware**
 4. Done!
 
-#### Advanced - PlatformIO
-For developers who want to build from source or customize the firmware:
-
-1. Install [VS Code](https://code.visualstudio.com/) and [PlatformIO](https://platformio.org/install/ide?install=vscode)
-2. Clone or download this repo
-3. Open the folder in VS Code
-4. Hit Upload in PlatformIO
-5. Flash complete!
-
 **Troubleshooting:**
 - Can't find the port? Install [CP210x drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
 - Upload failing? Hold the BOOT button while flashing
@@ -183,8 +173,8 @@ Yes, but some features may be restricted depending on your location and use. Fol
 **How long does the battery last?**  
 Up to a full day of typical use. Heavy continuous scanning may reduce runtime; lighter intermittent use can extend it.
 
-**Can I develop my own tools?**  
-Yes. The firmware is open source. You can customize and add features. Join our Discord if you need help.
+**Can I request new tools or features?**  
+Yes! Head to our **[Discord](https://discord.gg/J5A3zDC2y8)** and drop your request in. We're actively developing new features and community suggestions drive a lot of what gets added.
 
 **Does it come with firmware pre‑installed?**  
 nyanBOX ships ready to flash. Use the web flasher at https://nyandevices.com/flasher to get running in minutes.
@@ -195,8 +185,7 @@ nyanBOX ships ready to flash. Use the web flasher at https://nyandevices.com/fla
 
 Got questions? Want to show off your device? Need help?
 
-- **[Discord](https://discord.gg/J5A3zDC2y8)** - Most active community spot
-- **[GitHub Issues](https://github.com/jbohack/nyanBOX/issues)** - Report bugs or request features
+- **[Discord](https://discord.gg/J5A3zDC2y8)** - Questions, bug reports, feature requests, and community
 - **[nyandevices.com](https://nyandevices.com)** - Full docs and guides
 
 ---
@@ -237,11 +226,8 @@ And thanks to everyone who's contributed code, reported bugs, purchased a device
 
 ---
 
-## 📜 License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
 ---
+
 
 <div align="center">
   <h3>Ready to explore the 2.4GHz spectrum?</h3>
