@@ -99,6 +99,7 @@ Built around an ESP32 with triple NRF24 modules, a crisp OLED display, and a 250
 - **Flock Detector** - Detects Flock Safety surveillance cameras using dual-mode WiFi and BLE scanning. Identifies devices through SSID patterns, MAC OUI prefixes, and Bluetooth device names. Uses promiscuous frame capture to detect cameras even when powered on and not actively broadcasting. Features real-time signal strength tracking with detailed device info and a locate mode for pinpointing camera positions.
 - **Device Scout** – Wireless device scanner combining Bluetooth and WiFi detection with anti-surveillance capabilities. Discovers nearby devices and ranks by persistence to identify trackers following you.
 - **Scanner** – Scans the 2.4GHz frequency band to detect active channels and devices
+- **Jam Detector** – Scans the Wi-Fi and Bluetooth band and establishes a baseline of your local wireless environment. Continuously updates the baseline in the background and alerts you when abnormal interference or signal saturation is detected nearby.
 - **Analyzer** – Real-time spectrum analyzer with channel filters for targeted RF analysis. Features dynamic display with auto-scaling, peak frequency detection, and instant filter switching via left/right buttons. Analyze WiFi, Bluetooth, or custom frequency bands.
 
 ### 🎮 Leveling System
