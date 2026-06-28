@@ -83,6 +83,7 @@ Built around an ESP32 with triple NRF24 modules, a crisp OLED display, and a 250
 - **Skimmer Detector** – Detects HC-03, HC-05, and HC-06 Bluetooth modules commonly used in credit card skimming devices.
 - **AirTag Detector** – Scans for and identifies nearby Apple AirTag devices.
 - **AirTag Spoofer** – Clones and rebroadcasts detected Apple AirTag devices for selective or bulk spoofing.
+- **FindMy Beeper** – Scans for nearby Apple FindMy devices like AirTags, AirPods, and other FindMy accessories and triggers their built-in speaker. Choose Beep Selected to target a specific device or Beep All to sweep every FindMy device in range automatically.
 - **SmartTag Detector** - Scans for and identifies nearby Samsung SmartTag devices.
 - **Tile Detector** - Scans for and identifies nearby Tile Tracker devices.
 - **RayBan Detector** - Scans for and identifies nearby RayBan Meta smart glasses.
